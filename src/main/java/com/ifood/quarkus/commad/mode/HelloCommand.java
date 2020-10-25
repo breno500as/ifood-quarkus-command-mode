@@ -1,4 +1,4 @@
-package com.ifood.quarkus.commad;
+package com.ifood.quarkus.commad.mode;
 
 import io.quarkus.runtime.QuarkusApplication;
 import io.quarkus.runtime.annotations.QuarkusMain;
